@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## I am creating a pair of functions makeCacheMatrix and cacheSolve that work hand in hand that can cache
+## the inverse of matrices and save computing time
 
 ## The makeCacheMatrix function created a special object that can cache the inverse of the matrix, x
 
